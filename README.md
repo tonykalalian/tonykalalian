@@ -2,7 +2,7 @@
 
 Passionate Full-Stack Developer | MERN Stack Specialist | Expert in React, Express, MongoDB, Node.js, MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tony-kalalian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tony-kalalian-8a3203230/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://tonykalalian.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/tonykalalian)
 [![Profile Views](https://komarev.com/ghpvc/?username=tonykalalian&color=brightgreen)](https://github.com/tonykalalian)
