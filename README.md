@@ -1,4 +1,4 @@
-# Tony Kalalian 👋 - Passionate Full-Stack Developer
+# Tony Kalalian  - Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tony-kalalian-8a3203230/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://tonykalalian.me/)
