@@ -81,6 +81,6 @@ All my projects are licensed under the MIT License. See the [LICENSE](https://gi
 
 ## Feedback and Support 💌
 
-If you have any questions or inquiries, please feel free to reach out to me at [tkalalian@gmail.com](mailto:tkalalian@gmail.com). I am eager to demonstrate my expertise and provide assistance! 🤗
+If you have any questions or inquiries, please feel free to reach out to me at [tkalalian@gmail.com](mailto:tkalalian@gmail.com) or [tonykalalian@tonykalalian.me](mailto:tonykalalian@tonykalalian.m). I am eager to demonstrate my expertise and provide assistance! 🤗
 
 ## Tony Kalalian 🧑‍💻
