@@ -77,7 +77,7 @@ These ongoing projects represent my commitment to continuous learning and my des
 
 ## License 📄
 
-All my projects are licensed under the MIT License. See the LICENSE file for details.
+All my projects are licensed under the MIT License. See the [LICENSE](https://github.com/tonykalalian/tonykalalian/blob/main/LICENSE.md) file for details.
 
 ## Feedback and Support 💌
 
