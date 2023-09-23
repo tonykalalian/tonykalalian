@@ -68,7 +68,7 @@ Embark on a React-driven project tailored for a company in Dubai. This project i
 
 Introducing a Full Stack MERN (MongoDB, Express.js, React, Node.js) application tailored for a company with diverse hierarchies. With roles ranging from admin to superadmin and news entry, this project is a testament to our versatility in web development. Expect features like user authentication, rich text editing with CKEditor, and data visualization with charts, all aimed at streamlining news management. Keep an eye on this project as it evolves into a comprehensive news management system.
 
-## [TMT-Solutions Web App ](https://tmt-front.vercel.app/)
+## [TMT-Solutions Web App ](https://tmt-solutions.vercel.app)
 
 Join us in the creation of a comprehensive website that showcases TMT-Solutions' wide array of digital services, including web development, mobile app development, and more. This project aims to provide an engaging online platform that effectively communicates the expertise and offerings of TMT-Solutions. With an emphasis on user-friendly navigation and informative content, this website will serve as a digital hub for clients and partners to explore and connect with TMT-Solutions' digital solutions. Stay tuned for updates as we craft a website that represents excellence in the digital realm.
 
