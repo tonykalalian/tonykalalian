@@ -32,27 +32,48 @@ During my career, I have:
 - Utilized Git for version control and actively participated in code review processes.
 - Communicated effectively with the team using Slack and managed tasks using Trello.
 
-## 🚀 Projects
+# 🚀 Projects
 
-Here are some of the notable projects I've worked on:
+Welcome to my portfolio of self-taught projects that demonstrate my passion for learning and contributing to the tech world.
 
-### [Fitness Blog Web Application](https://github.com/tonykalalian/Gym)
+## [Fitness Blog Web Application](https://bloggymwebapp.onrender.com/)
 
-A dynamic web application dedicated to fitness blogging, offering comprehensive information and resources related to various body parts and exercises. Users can explore posts on different body parts like chest, abs, biceps, and more, along with access to fitness plans and tools.
+A dynamic web application dedicated to fitness blogging, offering comprehensive information and resources related to various body parts and exercises. This project allowed me to delve into web development and user experience design.
 
-### [The Phoenician Clothing Store](https://github.com/tonykalalian/Ecommerce-Back-End)
+## [The Phoenician Clothing Store](https://github.com/tonykalalian/Ecommerce-Back-End)
 
-A remarkable MERN Full-Stack Application, providing seamless data management, user authentication, and API endpoint handling. Expertly integrated with React Frontend using MaterialUI and styled components, it's perfect for an online clothing store.
+A remarkable MERN Full-Stack Application, providing seamless data management, user authentication, and API endpoint handling. This project was an opportunity to explore both frontend and backend development, as well as integration with popular libraries.
 
-### [Front-End Restaurant Application](https://github.com/tonykalalian/Front-End-Restaurant-Application)
+## [Front-End Restaurant Application](https://github.com/tonykalalian/Front-End-Restaurant-Application)
 
-A project that started from scratch, showcasing React and Material-UI best practices. Inspired by renowned brands like McDonald's, this work sets a new standard for restaurant applications.
+A project that started from scratch, showcasing React and Material-UI best practices. Inspired by renowned brands like McDonald's, this work sets a new standard for restaurant applications, demonstrating my front-end development skills.
 
-### [QR Code Generator](https://github.com/tonykalalian/qr-code-generator-nodejs)
+## [QR Code Generator](https://github.com/tonykalalian/qr-code-generator-nodejs)
 
-An innovative Node.js application for generating QR codes from photos by specifying a URL. The generator utilizes the npm module "inquirer" for command-line interaction, "qr-image" for QR code creation, and "fs" to save the generated QR code as an image and the specified URL in a text file.
+An innovative Node.js application for generating QR codes from photos by specifying a URL. The generator utilizes the npm module "inquirer" for command-line interaction, "qr-image" for QR code creation, and "fs" to save the generated QR code as an image and the specified URL in a text file. This project reflects my interest in building practical tools.
 
-For project screenshots, please visit the respective repositories.
+## [Flex Jobs Platform using Angular](https://flex-jobs.vercel.app)
+
+Create a dynamic job platform using Angular for a digital transformation company. This project aims to revolutionize the way job seekers and employers connect. With a sleek and intuitive interface, it will provide an exceptional user experience for browsing, applying for, and posting jobs. Stay tuned for updates as we build a platform that transforms the job market.
+
+## [Feedback UI Web App using ReactJS](https://feedback-ui-tonykalalian.vercel.app/)
+
+Introducing a ReactJS-powered feedback web app, designed to streamline the process of collecting and managing feedback. Leveraging the power of React components and the robust PropTypes library, this project will offer a user-friendly interface for users to submit feedback and for administrators to review and act on it. Watch this space for progress updates as we craft a powerful tool for feedback management.
+
+## [ASTUDIO Project using React for a Dubai Company](https://astudio-tonykalalian.vercel.app/)
+
+Embark on a React-driven project tailored for a company in Dubai. This project is a testament to the power of self-learning and practical application. We're designing a solution that meets the unique needs of our Dubai-based client, incorporating cutting-edge React features and user-friendly interfaces. Stay tuned for insights into how we're building a solution that bridges the gap between innovation and business needs.
+
+## [News App Management System (Full Stack MERN App)](https://tmt-front.vercel.app/)
+
+Introducing a Full Stack MERN (MongoDB, Express.js, React, Node.js) application tailored for a company with diverse hierarchies. With roles ranging from admin to superadmin and news entry, this project is a testament to our versatility in web development. Expect features like user authentication, rich text editing with CKEditor, and data visualization with charts, all aimed at streamlining news management. Keep an eye on this project as it evolves into a comprehensive news management system.
+
+## [TMT-Solutions Web App ](https://tmt-front.vercel.app/)
+
+Join us in the creation of a comprehensive website that showcases TMT-Solutions' wide array of digital services, including web development, mobile app development, and more. This project aims to provide an engaging online platform that effectively communicates the expertise and offerings of TMT-Solutions. With an emphasis on user-friendly navigation and informative content, this website will serve as a digital hub for clients and partners to explore and connect with TMT-Solutions' digital solutions. Stay tuned for updates as we craft a website that represents excellence in the digital realm.
+
+These ongoing projects represent my commitment to continuous learning and my desire to contribute my skills to real-world challenges. Stay tuned for updates as I work on these exciting endeavors!
+
 
 ## License 📄
 
