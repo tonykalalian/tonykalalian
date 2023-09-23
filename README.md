@@ -44,7 +44,7 @@ A dynamic web application dedicated to fitness blogging, offering comprehensive 
 
 A remarkable MERN Full-Stack Application, providing seamless data management, user authentication, and API endpoint handling. This project was an opportunity to explore both frontend and backend development, as well as integration with popular libraries.
 
-## [Front-End Restaurant Application](https://github.com/tonykalalian/Front-End-Restaurant-Application)
+## [Front-End Restaurant Application](https://front-end-restaurant-application.vercel.app/)
 
 A project that started from scratch, showcasing React and Material-UI best practices. Inspired by renowned brands like McDonald's, this work sets a new standard for restaurant applications, demonstrating my front-end development skills.
 
